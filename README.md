@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Jonatan Alexander Caicedo</h1>
+<h1 align="center">¡Hola! Soy Jonatan Alexander Caicedo</h1>
 
 <h3 align="center">
 Senior Backend Engineer • Arquitectura de Microservicios • Sistemas Distribuidos
@@ -10,11 +10,11 @@ Diseño y desarrollo soluciones backend escalables, seguras y de alto rendimient
 
 ---
 
-# 🚀 Sobre mí
+# Sobre mí
 
 Soy Ingeniero de Software con más de **8 años de experiencia** desarrollando aplicaciones empresariales para los sectores financiero, retail y servicios.
 
-Me apasiona diseñar soluciones backend robustas utilizando arquitecturas modernas, buenas prácticas y tecnologías que permitan construir sistemas mantenibles y escalables.
+Me apasiona diseñar soluciones backend robustas utilizando arquitecturas modernas, buenas prácticas y tecnologías que permitan construir sistemas mantenibles, seguras y escalables.
 
 Actualmente me enfoco en:
 
@@ -27,73 +27,58 @@ Actualmente me enfoco en:
 
 ---
 
-# 🛠 Tecnologías
+# Tecnologías
 
-## Backend
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
----
-
-## Bases de Datos
+### Bases de Datos
 
 PostgreSQL • MongoDB • Oracle • Redis
 
----
-
-## Mensajería
+### Mensajería
 
 RabbitMQ • Kafka • NATS
 
----
-
-## DevOps
+### DevOps
 
 Docker • Kubernetes • Jenkins • GitHub Actions
 
----
+### Arquitectura
 
-## Arquitectura
-
-Microservicios
-
-Clean Architecture
-
-DDD
-
-CQRS
-
-SOLID
-
-OAuth2
-
-JWT
-
-REST API
+- Microservicios
+- Clean Architecture
+- DDD
+- CQRS
+- SOLID
+- OAuth2
+- JWT
+- REST API
 
 ---
 
-# 📌 Proyectos Destacados
+# Proyectos Destacados
 
-## 🚀 Kevorium
+## Kevorium
 
 Plataforma SaaS enfocada en productividad, organización de información y colaboración.
 
-> 🚧 En desarrollo
+> Próximamente
 
 ---
 
-## 🧠 ContextHub
+## ContextHub
 
 Plataforma para gestión de conocimiento contextual y colaboración en tiempo real.
 
-> 🚧 En desarrollo
+> Próximamente
 
 ---
 
-## 🏗 Plantilla Empresarial NestJS
+## Plantilla Empresarial NestJS
 
 Proyecto base para aplicaciones backend empresariales con:
 
@@ -107,9 +92,9 @@ Proyecto base para aplicaciones backend empresariales con:
 
 ---
 
-## 📚 System Design
+## System Design
 
-Repositorio dedicado a documentación técnica:
+Repositorio dedicado a documentación técnica sobre:
 
 - Diagramas C4
 - Arquitectura de Microservicios
@@ -120,29 +105,13 @@ Repositorio dedicado a documentación técnica:
 
 ---
 
-# 📈 Estadísticas
+#  Conecta conmigo
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=caicedo97&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caicedo97&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-# 🌎 Conecta conmigo
-
-- 💼 LinkedIn: TU_LINKEDIN
-- 📧 Correo: TU_CORREO
+-  **LinkedIn:** https://www.linkedin.com/in/alexander-cotacio
+-  **Correo:** caicedo_48@hotmail.com
 
 ---
 
 <p align="center">
-
-<i>
-"El software de calidad no solo funciona; también es fácil de entender, mantener y escalar."
-</i>
-
+<i>"El software de calidad no solo funciona; también es fácil de entender, mantener y escalar."</i>
 </p>
