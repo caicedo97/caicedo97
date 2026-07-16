@@ -1,62 +1,63 @@
-<h1 align="center">Hi 👋 I'm Jonatan Alexander Caicedo</h1>
+<h1 align="center">¡Hola! 👋 Soy Jonatan Alexander Caicedo</h1>
 
 <h3 align="center">
-Senior Backend Engineer • Microservices • Distributed Systems
+Senior Backend Engineer • Arquitectura de Microservicios • Sistemas Distribuidos
 </h3>
 
 <p align="center">
-Building scalable backend solutions with clean architecture and modern technologies.
+Diseño y desarrollo soluciones backend escalables, seguras y de alto rendimiento para aplicaciones empresariales.
 </p>
 
 ---
 
-# 🚀 About Me
+# 🚀 Sobre mí
 
-I'm a Backend Software Engineer with more than 8 years of experience designing, building and maintaining scalable enterprise applications.
+Soy Ingeniero de Software con más de **8 años de experiencia** desarrollando aplicaciones empresariales para los sectores financiero, retail y servicios.
 
-I enjoy solving complex problems through clean architecture, distributed systems and high-performance APIs.
+Me apasiona diseñar soluciones backend robustas utilizando arquitecturas modernas, buenas prácticas y tecnologías que permitan construir sistemas mantenibles y escalables.
 
-Currently focused on:
+Actualmente me enfoco en:
 
-- Backend Engineering
-- Microservices
-- System Design
-- Cloud Architectures
-- Performance Optimization
-- Technical Leadership
+- Arquitectura de Microservicios
+- APIs REST
+- Sistemas Distribuidos
+- Optimización de rendimiento
+- Seguridad de aplicaciones
+- Liderazgo técnico
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Tecnologías
 
-### Languages
+## Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Backend
+---
 
-NestJS • Spring Boot • Express
-
-### Databases
+## Bases de Datos
 
 PostgreSQL • MongoDB • Oracle • Redis
 
-### Messaging
+---
+
+## Mensajería
 
 RabbitMQ • Kafka • NATS
 
-### DevOps
+---
+
+## DevOps
 
 Docker • Kubernetes • Jenkins • GitHub Actions
 
-### Architecture
+---
 
-Microservices
+## Arquitectura
 
-REST APIs
+Microservicios
 
 Clean Architecture
 
@@ -66,60 +67,60 @@ CQRS
 
 SOLID
 
-Event Driven
-
 OAuth2
 
 JWT
 
+REST API
+
 ---
 
-# 📌 Featured Projects
+# 📌 Proyectos Destacados
 
 ## 🚀 Kevorium
 
-A SaaS platform focused on productivity, collaboration and smart knowledge management.
+Plataforma SaaS enfocada en productividad, organización de información y colaboración.
 
-> Coming Soon
+> 🚧 En desarrollo
 
 ---
 
 ## 🧠 ContextHub
 
-Context-aware notes and collaboration platform with browser integration.
+Plataforma para gestión de conocimiento contextual y colaboración en tiempo real.
 
-> Coming Soon
+> 🚧 En desarrollo
 
 ---
 
-## 🏗 NestJS Enterprise Template
+## 🏗 Plantilla Empresarial NestJS
 
-Production-ready NestJS architecture implementing:
+Proyecto base para aplicaciones backend empresariales con:
 
-- JWT Authentication
-- Docker
+- JWT
 - PostgreSQL
 - Redis
-- Clean Architecture
+- Docker
 - Swagger
-- Testing
+- Clean Architecture
+- Pruebas automatizadas
 
 ---
 
 ## 📚 System Design
 
-Architecture documentation including:
+Repositorio dedicado a documentación técnica:
 
-- C4 Diagrams
-- Distributed Systems
+- Diagramas C4
+- Arquitectura de Microservicios
 - CQRS
 - Saga Pattern
-- Event Driven
 - ADRs
+- Arquitectura Distribuida
 
 ---
 
-# 📈 GitHub Stats
+# 📈 Estadísticas
 
 <p align="center">
 
@@ -131,28 +132,17 @@ Architecture documentation including:
 
 ---
 
-# 🌎 Connect with me
+# 🌎 Conecta conmigo
 
-<p>
-
-<a href="TU_LINKEDIN">
-LinkedIn
-</a>
-
-•
-
-<a href="mailto:TU_CORREO">
-Email
-</a>
-
-</p>
+- 💼 LinkedIn: TU_LINKEDIN
+- 📧 Correo: TU_CORREO
 
 ---
 
 <p align="center">
 
 <i>
-"Clean code always looks like it was written by someone who cares."
+"El software de calidad no solo funciona; también es fácil de entender, mantener y escalar."
 </i>
 
 </p>
